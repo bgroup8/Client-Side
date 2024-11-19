@@ -23,7 +23,7 @@
     "expo-notifications": "^0.4.0",
     "expo-permissions": "~8.0.0",
     "expo-sharing": "~8.0.0",
-    "firebase": "^7.15.4",
+    "firebase": "^10.9.0",
     "galio-framework": "^0.7.1",
     "js-base64": "^2.5.2",
     "lottie-react-native": "~2.6.1",
